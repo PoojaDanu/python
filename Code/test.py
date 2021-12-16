@@ -1,3 +1,3 @@
 a=7
 b=14
-print("div ison of b and a is", a/b)
+print("divison of b and a is juiyh", a/b)
